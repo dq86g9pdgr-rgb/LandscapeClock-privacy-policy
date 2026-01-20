@@ -1,6 +1,6 @@
 # プライバシーポリシー
 
-本プライバシーポリシーは、LandscapeClock（以下「本アプリ」）における、
+本プライバシーポリシーは、LSClock（以下「本アプリ」）における、
 ユーザー情報の取扱いについて定めるものです。
 
 ---
@@ -95,7 +95,7 @@ App Tracking Transparency（ATT）による
 
 # Privacy Policy
 
-This Privacy Policy describes how user information is handled in **LandscapeClock** (the “App”).
+This Privacy Policy describes how user information is handled in **LSClock** (the “App”).
 
 ---
 
