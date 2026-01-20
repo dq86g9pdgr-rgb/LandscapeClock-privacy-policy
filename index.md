@@ -86,10 +86,96 @@ App Tracking Transparency（ATT）による
 
 本プライバシーポリシーに関するお問い合わせは、以下までご連絡ください。
 
-- メールアドレス：【連絡用メールアドレスを記載】
-
-gojoryoyaapp@gmail.com
+- メールアドレス：gojoryoyaapp@gmail.com
 
 ## 8. 制定日
 
 - 制定日：2026年1月20日
+
+
+# Privacy Policy
+
+This Privacy Policy describes how user information is handled in **LandscapeClock** (the “App”).
+
+---
+
+## 1. Information Collected
+
+The App may automatically collect the following information:
+
+- Device information (such as OS and device type)
+- App usage data (such as launch count and operation history)
+- Advertising Identifier (IDFA, etc.)
+- Crash information and error logs
+
+This information does **not** include personally identifiable information such as name, address, or email address.
+
+---
+
+## 2. Purpose of Use
+
+The collected information is used for the following purposes:
+
+- Providing and improving the App’s functionality
+- Analyzing usage trends
+- Investigating and fixing bugs and crashes
+- Advertising delivery and performance measurement
+
+---
+
+## 3. Third-Party Services Used
+
+The App uses the following third-party services:
+
+### Firebase (Google LLC)
+- Purpose: Usage analytics and crash reporting  
+- Data collected: Device information, usage data, crash logs, etc.  
+- Privacy Policy:  
+  https://policies.google.com/privacy
+
+### Google AdMob (Google LLC)
+- Purpose: Advertising delivery  
+- Data collected: Advertising identifier, device information, etc.  
+- Privacy Policy:  
+  https://policies.google.com/privacy
+
+---
+
+## 4. Advertising
+
+The App uses third-party advertising services provided by Google AdMob.  
+Advertising providers may use advertising identifiers to display ads tailored to users’ interests.
+
+Users can restrict the use of advertising identifiers through their device settings.
+
+Regarding advertising-related tracking, the App uses advertising identifiers **only after obtaining user consent** through App Tracking Transparency (ATT).
+
+---
+
+## 5. Data Management and Retention
+
+Collected data is managed in accordance with the privacy policies of the respective third-party service providers.
+
+The developer does not individually store or manage user data.
+
+---
+
+## 6. Changes to This Privacy Policy
+
+This Privacy Policy may be updated without prior notice due to changes in laws or service content.
+
+Any changes will be promptly published on this page.
+
+---
+
+## 7. Contact Information
+
+For inquiries regarding this Privacy Policy, please contact:
+
+- Email address:gojoryoyaapp@gmail.com
+
+---
+
+## 8. Effective Date
+
+- Effective Date: **January 20, 2026**
